@@ -27,18 +27,25 @@
 1. **Clone this repo** inside your Oh My Zsh themes folder:
 
 ```bash
-git clone https://github.com/yourusername/gatitoprompt ~/.oh-my-zsh/themes/gatitoprompt
+git clone https://github.com/yourusername/gatitoprompt ~/.oh-my-zsh/themes/gatitoprompt 
+````
 
-2. #Activate the theme by editing your ~/.zshrc:
+## 2. Activate the theme by editing your ~/.zshrc:
 ZSH_THEME="gatitoprompt"
 
-3. #Reload Zsh:
+## 3. Reload Zsh:
 source ~/.zshrc
 
+---
 
-** Folder structure example **
+## Folder structure example
 
 ~/my-project 🪴 😺 feature/login 🐍 v3.11
 🐈 
 
+---
 
+💖 Inspired by
+Spaceship Prompt
+
+Cat people everywhere 😺
