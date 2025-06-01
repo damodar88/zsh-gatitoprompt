@@ -2,7 +2,7 @@
 
 > A minimal, cat-themed Zsh prompt with contextual Git branch icons, language detection, and version info.
 
-![GatitoPrompt screenshot](https://images.emojiterra.com/microsoft/fluent-emoji/15.1/1024px/1f408_color.png)
+![GatitoPrompt screenshot](https://images.emojiterra.com/google/noto-emoji/unicode-16.0/color/1024px/1f408.png)
 
 ---
 
