@@ -24,17 +24,23 @@
 
 ## 📦 Installation
 
-1. **Clone this repo** inside your Oh My Zsh themes folder:
+### 1. Clone this repo inside your Oh My Zsh themes folder:
 
 ```bash
 git clone https://github.com/yourusername/gatitoprompt ~/.oh-my-zsh/themes/gatitoprompt 
 ````
 
 ### 2. Activate the theme by editing your ~/.zshrc:
+
+```bash
 ZSH_THEME="gatitoprompt"
+````
 
 ### 3. Reload Zsh:
+
+```bash
 source ~/.zshrc
+````
 
 ---
 
